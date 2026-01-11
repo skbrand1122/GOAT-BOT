@@ -1,1 +1,65 @@
-
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100015955812056%22%3A%22JjAPlFvw%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "datr",
+        "value": "zN-nZKNajdgqnL4HHw93IKJW",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "pas",
+        "value": "100022408633827%3AN8plC29LMu",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "fr",
+        "value": "0iEbsIJR1suerYeBl.AWemoys01yaZ_9Ha7togESNBvOwFkReqcQURXpRWQk6QrEO-rNk.Bkp9_N..AAA.0.0.BpYyJo.AWcC51ntCWCZMKShMfnVu2-VXhU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3048%3Btimestamp%3A1768104552",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B856x450x2.4000000953674316",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100726120%3BT%3A29468457",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-11T04:57:24.451Z",
+        "lastAccessed": "2026-01-11T04:57:24.451Z"
+    }
+]
