@@ -19,8 +19,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078049308655",
-    "61577213967981"
+    "100003326487089",
+    "100033685782498"
   ],
   "reactUnsend": {
     "enable": true,
@@ -31,8 +31,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "100003326487089",
+      "100033685782498"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
@@ -48,7 +48,7 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "Recommended using 'mongodb' or 'sqlite'."
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/Kolkata",
   "credentials": {
     "gmailAccount": {
       "email": "botofnexxo@gmail.com",
