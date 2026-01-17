@@ -26,7 +26,7 @@ module.exports = {
 
     // র‍্যান্ডম রাগী রিপ্লাই
     const REPLIES = [
-      " MAHTAB Kahi Chupa nhi he haveli pe ajana 😩",
+      " SULTAN Kahi Chupa nhi he haveli pe ajana 😩",
       " बॉस कोई तुमको बुला रहा है 😂😏",
       " budbak,apko paisa nhi denge mere malik 😂",
       "Kuy presan kr rahe ho mere bos ko 😠",
